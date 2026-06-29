@@ -1,7 +1,7 @@
 body
  { 
   display: flex; 
-  flex-direction: column; 
+  flex-direction column; 
   min-height: 100 vh; 
 } 
 main 
