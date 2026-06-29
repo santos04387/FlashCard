@@ -1,8 +1,10 @@
-body { 
+body
+ { 
   display: flex; 
   flex-direction: column; 
   min-height: 100 vh; 
 } 
-main { 
+main 
+{ 
   flex: 1; 
 } 
