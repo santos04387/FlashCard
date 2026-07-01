@@ -5,7 +5,12 @@ padding: 0;
 }
 
 .cabecalho {
-padding: 15px 25px;
+  .cabecalho 
+  background-color: #7e3e1c; 
+  padding: 15px 25px; 
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
 }
 
 .cartao {
@@ -16,3 +21,12 @@ height: 200px;
 .cartao-imagem {
 width: 100%;
 }
+.cabecalho-link { 
+  color: #fff; 
+  text-decoration: none; 
+} 
+
+h1 { 
+  color: #fff; 
+  font-size: 24px; 
+} s
