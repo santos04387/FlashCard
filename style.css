@@ -20,7 +20,7 @@ body {
 display: flex;
 flex-direction: column;
 min-height: 100vh;
-background-color: #f5f2f2;
+background-color: #2209af;
 }
 main {
 flex: 1;
@@ -40,7 +40,7 @@ font-size: 24px;
 footer {
 background-color: #2f6ba3;
 padding: 15px 25px;
-color: #0e178b;
+color: #264e99;
 }
 .cartao-interno {
 position: relative;
